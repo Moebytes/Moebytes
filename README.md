@@ -11,7 +11,7 @@ I'm a hobbyist programmer that primarily works on Node.js and website projects.
 - API wrappers for [Youtube](https://www.npmjs.com/package/youtube.ts), [Soundcloud](https://www.npmjs.com/package/soundcloud.ts), [Pixiv](https://www.npmjs.com/package/pixiv.ts), [DeviantArt](https://www.npmjs.com/package/deviantart.ts), and [Osu](https://www.npmjs.com/package/deviantart.ts). 
 - The [waifu2x](https://www.npmjs.com/package/waifu2x) npm package to upscale images with node.js. 
 - A [browser extension](https://github.com/Tenpi/soundcloud-extension) that can download tracks from Soundcloud. 
-- A [photoshop script](https://github.com/Tenpi/photoshop-scripts) that deletes every other frame in a gif. 
+- Some [photoshop scripts](https://github.com/Tenpi/photoshop-scripts) such as deleting every other frame in a gif. 
 
 ⚡ Technologies that I know:
 - Javascript/Typescript
