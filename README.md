@@ -15,7 +15,7 @@ I'm a hobbyist programmer that primarily works on Node.js and website projects.
 
 ⚡ Technologies that I know:
 - Javascript/Typescript
-- HTML
+- HTML/JSON
 - CSS/LESS
 - Python
 - SQL
