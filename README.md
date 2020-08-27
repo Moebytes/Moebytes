@@ -8,7 +8,7 @@ I'm a hobbyist programmer that primarily works on Node.js and website projects.
 - An online [music player](https://github.com/Tenpi/Music-Player) that can reverse, pitch shift, and time stretch audio in real time.
 - [Hibiki](https://github.com/Tenpi/Hibiki), a twitter bot that tweets anime pictures intermittently. 
 - [Uzuki](https://github.com/Tenpi/Uzuki), a reddit bot that finds the source of the post when mentioned.
-- API wrappers for [Youtube](https://www.npmjs.com/package/youtube.ts), [Soundcloud](https://www.npmjs.com/package/soundcloud.ts), [Pixiv](https://www.npmjs.com/package/pixiv.ts), [DeviantArt](https://www.npmjs.com/package/deviantart.ts), and [Osu](https://www.npmjs.com/package/deviantart.ts). 
+- API wrappers for [Youtube](https://www.npmjs.com/package/youtube.ts), [Soundcloud](https://www.npmjs.com/package/soundcloud.ts), [Pixiv](https://www.npmjs.com/package/pixiv.ts), [DeviantArt](https://www.npmjs.com/package/deviantart.ts), and [Osu](https://www.npmjs.com/package/osu.ts). 
 - The [waifu2x](https://www.npmjs.com/package/waifu2x) npm package to upscale images with node.js. 
 - A [browser extension](https://github.com/Tenpi/soundcloud-extension) that can download tracks from Soundcloud. 
 - Some [photoshop scripts](https://github.com/Tenpi/photoshop-scripts) such as deleting every other frame in a gif. 
