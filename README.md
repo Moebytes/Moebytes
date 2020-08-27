@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hello, welcome to my profile!
+
+I'm a hobbyist programmer that primarily works on Node.js and website projects.
+
+✨ Some of my projects:
+- Kisaragi, a multi-purpose discord bot with over 300 commands ranging from website searching to music playing.
+- The website for Kisaragi bot, which mainly contains the documentation for the commands.
+- An online music player that can reverse, pitch shift, and time stretch audio in real time.
+- Hibiki, a twitter bot that tweets anime pictures intermittently. 
+- Uzuki, a reddit bot that finds the source of the post when mentioned.
+- API wrappers for Youtube, Soundcloud, Pixiv, DeviantArt, and Osu. 
+- The waifu2x npm package to upscale images with node.js. 
+- A browser extension that can download tracks from Soundcloud. 
+
+⚡ Technologies that I know:
+- Javascript
+- Typescript
+- Python
+- HTML
+- CSS/LESS
+- SQL
+- React
 
 <!--
 **Tenpi/Tenpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
