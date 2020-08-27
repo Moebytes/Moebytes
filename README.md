@@ -11,6 +11,7 @@ I'm a hobbyist programmer that primarily works on Node.js and website projects.
 - API wrappers for Youtube, Soundcloud, Pixiv, DeviantArt, and Osu. 
 - The waifu2x npm package to upscale images with node.js. 
 - A browser extension that can download tracks from Soundcloud. 
+- A photoshop script that deletes every other frame in a gif. 
 
 ⚡ Technologies that I know:
 - Javascript/Typescript
