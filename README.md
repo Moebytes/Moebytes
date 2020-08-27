@@ -23,7 +23,6 @@ I'm a hobbyist programmer that primarily works on Node.js and website projects.
 🤔 I might look into these someday:
 - A personal website
 - An image board website
-- A desktop or mobile app
 - A VST plugin
 
 <!--
