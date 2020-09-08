@@ -24,7 +24,6 @@ I'm a hobbyist programmer that primarily works on Node.js and website projects.
 🤔 I might look into these someday:
 - A personal website
 - An image board website
-- A VST plugin
 
 🌐 Find me online: \
 [Youtube](https://www.youtube.com/channel/UC8qU4aFe81jzG1attsyQ5wQ) | [Twitter](https://twitter.com/imtenpi) | [Soundcloud](https://soundcloud.com/imtenpi) | [Discord](https://discord.gg/77yGmWM)
