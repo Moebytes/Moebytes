@@ -12,7 +12,7 @@ I'm a hobbyist programmer that primarily works on Node.js and website projects.
 - The [waifu2x](https://www.npmjs.com/package/waifu2x) npm package to upscale images with node.js. 
 - A [browser extension](https://github.com/Tenpi/soundcloud-extension) that can download tracks from Soundcloud. 
 - Some [photoshop scripts](https://github.com/Tenpi/photoshop-scripts) such as deleting every other frame in a gif. 
-
+<!--
 ⚡ Technologies that I know:
 - Javascript/Typescript
 - HTML
@@ -28,7 +28,7 @@ I'm a hobbyist programmer that primarily works on Node.js and website projects.
 🌐 Find me online: \
 [Youtube](https://www.youtube.com/channel/UC8qU4aFe81jzG1attsyQ5wQ) | [Twitter](https://twitter.com/imtenpi) | [Soundcloud](https://soundcloud.com/imtenpi) | [Discord](https://discord.gg/77yGmWM)
 
-<!--
+
 **Tenpi/Tenpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
