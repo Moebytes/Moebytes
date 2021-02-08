@@ -6,7 +6,8 @@ I'm a hobbyist programmer that primarily works on Node.js and website projects.
 - [Kisaragi](https://github.com/Tenpi/Kisaragi), a multi-purpose discord bot with over 300 commands ranging from website searching to music playing.
 - The [website](https://github.com/Tenpi/Kisaragi-Site-React) for Kisaragi bot, which mainly contains the documentation for the commands.
 - An online [music player](https://github.com/Tenpi/Music-Player) that can reverse, pitch shift, and time stretch audio in real time.
-- A cute [GUI application](https://github.com/Tenpi/Crunchyroll-Downloader-GUI) that can download anime episodes from Crunchyroll.
+- A [waifu2x GUI app](https://github.com/Tenpi/Waifu2x-GUI) that upscales anime-styled images and videos with waifu2x.
+- A cute [GUI app](https://github.com/Tenpi/Crunchyroll-Downloader-GUI) that can download anime episodes from Crunchyroll.
 - The [waifu2x](https://www.npmjs.com/package/waifu2x) npm package to upscale images with node.js. 
 - The [detectanime](https://www.npmjs.com/package/detectanime) npm package to detect anime characters with node.js.
 - API wrappers: [Youtube](https://www.npmjs.com/package/youtube.ts), [Soundcloud](https://www.npmjs.com/package/soundcloud.ts), [Pixiv](https://www.npmjs.com/package/pixiv.ts), [DeviantArt](https://www.npmjs.com/package/deviantart.ts), [Osu](https://www.npmjs.com/package/osu.ts), [Crunchyroll](https://www.npmjs.com/package/crunchyroll.ts).
