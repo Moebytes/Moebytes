@@ -4,7 +4,7 @@ I'm a hobbyist programmer that primarily works on Node.js and website projects.
 
 ❄️ Some of my projects:
 - [Kisaragi](https://github.com/Tenpi/Kisaragi), a multi-purpose discord bot with over 300 commands ranging from website searching to music playing.
-- The [website](https://github.com/Tenpi/Kisaragi-Site-React) for Kisaragi bot, which mainly contains the documentation for the commands.
+- The [website](https://github.com/Tenpi/Kisaragi-Site) for Kisaragi bot, which mainly contains the documentation for the commands.
 - An online [music player](https://github.com/Tenpi/Music-Player-Web) that can reverse, pitch shift, and time stretch audio in real time.
 - A [waifu2x GUI app](https://github.com/Tenpi/Waifu2x-GUI) that upscales anime-styled images and videos with waifu2x.
 - A cute [GUI app](https://github.com/Tenpi/Crunchyroll-Downloader-GUI) that can download anime episodes from Crunchyroll.
