@@ -16,7 +16,7 @@ I'm a hobbyist programmer that primarily works on Node.js and website projects.
 - [Uzuki](https://github.com/Tenpi/Uzuki), a reddit bot that finds the source of the post when mentioned.
 - Some [photoshop scripts](https://github.com/Tenpi/photoshop-scripts) such as deleting every other frame in a gif. 
 
-![stats](https://github-readme-stats.vercel.app/api?username=tenpi&theme=synthwave&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=tenpi&theme=jolly&show_icons=true)
 
 <!--
 🌐 Find me online: \
