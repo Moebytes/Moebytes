@@ -8,13 +8,11 @@ I'm a hobbyist programmer that primarily works on Node.js and website projects.
 - An online [music player](https://github.com/Tenpi/Music-Player-Web) that can reverse, pitch shift, and time stretch audio in real time.
 - A [waifu2x GUI app](https://github.com/Tenpi/Waifu2x-GUI) that upscales anime-styled images and videos with waifu2x.
 - A [GUI app](https://github.com/Tenpi/Crunchyroll-Downloader-GUI) that can download anime episodes from Crunchyroll.
-- The [waifu2x](https://www.npmjs.com/package/waifu2x) npm package to upscale images with node.js. 
-- The [detectanime](https://www.npmjs.com/package/detectanime) npm package to detect anime characters with node.js.
-- API wrappers: [Youtube](https://www.npmjs.com/package/youtube.ts), [Soundcloud](https://www.npmjs.com/package/soundcloud.ts), [Pixiv](https://www.npmjs.com/package/pixiv.ts), [DeviantArt](https://www.npmjs.com/package/deviantart.ts), [Osu](https://www.npmjs.com/package/osu.ts), [Crunchyroll](https://www.npmjs.com/package/crunchyroll.ts).
 - A [browser extension](https://github.com/Tenpi/soundcloud-extension) that can download tracks from Soundcloud. 
+- The [waifu2x](https://www.npmjs.com/package/waifu2x) npm package to upscale images with node.js. 
+- API wrappers: [Youtube](https://www.npmjs.com/package/youtube.ts), [Soundcloud](https://www.npmjs.com/package/soundcloud.ts), [Pixiv](https://www.npmjs.com/package/pixiv.ts), [DeviantArt](https://www.npmjs.com/package/deviantart.ts), [Osu](https://www.npmjs.com/package/osu.ts), [Crunchyroll](https://www.npmjs.com/package/crunchyroll.ts).
 - [Hibiki](https://github.com/Tenpi/Hibiki), a twitter bot that tweets anime pictures intermittently. 
 - [Uzuki](https://github.com/Tenpi/Uzuki), a reddit bot that finds the source of the post when mentioned.
-- Some [photoshop scripts](https://github.com/Tenpi/photoshop-scripts) such as deleting every other frame in a gif. 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=tenpi&theme=default&show_icons=true)
 
