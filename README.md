@@ -3,13 +3,14 @@
 I'm a hobbyist programmer that primarily works on Node.js and website projects.
 
 ❄️ My best work:
-- [Music Player](https://github.com/Tenpi/Music-Player), a music player with real-time reversing, time stretching, and pitch shifting.
-- [Photo Viewer](https://github.com/Tenpi/Photo-Viewer), an image viewer that can apply resizing/color correction effects.
-- [Waifu2x GUI](https://github.com/Tenpi/Waifu2x-GUI) is an app that upscales anime-styled images with waifu2x.
-- [Crunchyroll Downloader](https://github.com/Tenpi/Crunchyroll-Downloader) is an app that downloads episodes from Crunchyroll.
-- [Soundcloud Download](https://github.com/Tenpi/soundcloud-download) is an extension that lets you download tracks from Soundcloud.
-- [Kisaragi](https://github.com/Tenpi/Kisaragi) is a multi-purpose discord bot with over 300 commands.
-- [kisaragi.moe](https://github.com/Tenpi/Kisaragi-Site) is the website of Kisaragi bot.
+- [Music Player](https://github.com/Tenpi/Music-Player), a music player with reversing, time stretching, and pitch shifting effects.
+- [Photo Viewer](https://github.com/Tenpi/Photo-Viewer), an image viewer with resizing/color correction effects.
+- [Video Player](https://github.com/Tenpi/Video-Player), a video player with reversing and time stretching effects.
+- [Waifu2x GUI](https://github.com/Tenpi/Waifu2x-GUI), an app that upscales anime-styled images with waifu2x.
+- [Crunchyroll Downloader](https://github.com/Tenpi/Crunchyroll-Downloader), an app that downloads episodes from Crunchyroll.
+- [Soundcloud Download](https://github.com/Tenpi/soundcloud-download), an extension that downloads tracks from Soundcloud.
+- [Kisaragi](https://github.com/Tenpi/Kisaragi), a multi-purpose discord bot with over 300 commands.
+- [kisaragi.moe](https://github.com/Tenpi/Kisaragi-Site), the website of Kisaragi bot.
 - [lolisleep.moe](https://github.com/Tenpi/lolisleep.moe) is well, self explanatory.
 - [npm packages](https://www.npmjs.com/~tenpi) include various api wrappers that I've made, such as pixiv.ts and soundcloud.ts.
 - [Hibiki](https://github.com/Tenpi/Hibiki) is a twitter bot that can tweet anime pictures intermittently. 
