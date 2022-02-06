@@ -1,18 +1,18 @@
-### Hello, welcome to my profile!
+### Hello!
 
-I'm a hobbyist programmer that primarily works on Node.js and website projects.
+I primarily work on Node.js projects.
 
 ❄️ My best work:
 - [Music Player](https://github.com/Tenpi/Music-Player), a music player with reversing, time stretching, and pitch shifting effects.
-- [Photo Viewer](https://github.com/Tenpi/Photo-Viewer), an image viewer with resizing/color correction effects.
+- [Photo Viewer](https://github.com/Tenpi/Photo-Viewer), a photo viewer with resizing/color correction effects.
 - [Video Player](https://github.com/Tenpi/Video-Player), a video player with reversing and time stretching effects.
-- [Waifu2x GUI](https://github.com/Tenpi/Waifu2x-GUI), an app that upscales anime-styled images with waifu2x.
+- [Waifu2x GUI](https://github.com/Tenpi/Waifu2x-GUI), an app that upscales images with waifu2x.
 - [Image Compressor](https://github.com/Tenpi/Image-Compressor), an app that compresses and resizes images.
 - [Pixiv Downloader](https://github.com/Tenpi/Pixiv-Downloader), an app that downloads illustrations from Pixiv.
 - [Crunchyroll Downloader](https://github.com/Tenpi/Crunchyroll-Downloader), an app that downloads episodes from Crunchyroll.
 - [Soundcloud Download](https://github.com/Tenpi/soundcloud-download), an extension that downloads tracks from Soundcloud.
-- [Kisaragi](https://github.com/Tenpi/Kisaragi), a multi-purpose discord bot with over 300 commands.
-- [kisaragi.moe](https://github.com/Tenpi/Kisaragi-Site), the website of Kisaragi bot.
+- [Kisaragi](https://github.com/Tenpi/Kisaragi), a multi-purpose discord bot with 300+ commands.
+- [lolisleep.moe](https://github.com/Tenpi/lolisleep.moe), it's self explanatory...
 
 ![stats](https://github-readme-stats.vercel.app/api?username=tenpi&theme=default&show_icons=true)
 
