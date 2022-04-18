@@ -12,4 +12,5 @@ I primarily work Node.js related projects.
 - [Crunchyroll Downloader](https://github.com/Tenpi/Crunchyroll-Downloader), an app that downloads episodes from Crunchyroll.
 - [Soundcloud Download](https://github.com/Tenpi/soundcloud-download), an extension that downloads tracks from Soundcloud.
 - [Kisaragi](https://github.com/Tenpi/Kisaragi), a multi-purpose discord bot with 300+ commands.
-- [lolisleep.moe](https://github.com/Tenpi/lolisleep.moe), it's self explanatory...
+- [kisaragi.moe](https://github.com/Tenpi/kisaragi.moe), website for the Kisaragi discord bot.
+- [lolisleep.moe](https://github.com/Tenpi/lolisleep.moe), pretty self explanatory. 
