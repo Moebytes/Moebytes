@@ -1,6 +1,6 @@
 ### Hello!
 
-I primarily work Node.js related projects.
+I primarily work on websites, apps, and node.js related projects.
 
 ❄ Examples of my work:
 - [Music Player](https://github.com/Tenpi/Music-Player), a music player with reversing, time stretching, and pitch shifting effects.
