@@ -3,7 +3,7 @@
 I primarily work on websites, apps, and node.js related projects.
 
 ❄ Examples of my work:
-- [moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website for anime art.
+- [Moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website for anime art.
 - [Music Player](https://github.com/Tenpi/Music-Player), a music player with reversing, time stretching, and pitch shifting effects.
 - [Photo Viewer](https://github.com/Tenpi/Photo-Viewer), a photo viewer with resizing/color correction effects.
 - [Video Player](https://github.com/Tenpi/Video-Player), a video player with reversing and time stretching effects.
