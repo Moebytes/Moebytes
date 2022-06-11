@@ -3,9 +3,9 @@
 Here you can find the source code of my websites, apps, and other related projects.
 
 Websites:
-- [moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website.
-- [kisaragi.moe](https://github.com/Tenpi/kisaragi.moe), website for my discord bot.
-- [lolisleep.moe](https://github.com/Tenpi/lolisleep.moe), an asmr site.
+- [Moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website.
+- [Kisaragi.moe](https://github.com/Tenpi/kisaragi.moe), website for my discord bot.
+- [Lolisleep.moe](https://github.com/Tenpi/lolisleep.moe), an asmr site.
 
 Apps:
 - [Music Player](https://github.com/Tenpi/Music-Player), a music player with reversing, time stretching, and pitch shifting effects.
