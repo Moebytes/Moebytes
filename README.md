@@ -1,6 +1,6 @@
 ### Hello!
 
-In my free time I like working on various, mostly anime related projects, such as websites, apps, and bots. For most of my projects I mainly use Typescript (typed superset of Javascript), LESS (superset of CSS with some extra features), and HTML. I also know a bit of Python and C/C++. 
+In my free time I like working on various, mostly anime related projects, such as websites, apps, and bots.
 
 My Websites:
 - [moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website.
