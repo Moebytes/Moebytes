@@ -1,6 +1,6 @@
 ### Hello!
 
-Here you can find the source code of my websites, apps, and other related projects.
+I like working on websites, apps, and other related projects.
 
 Websites:
 - [moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website.
