@@ -12,7 +12,7 @@ I have made several, mostly anime-related, websites, apps, bots, and extensions.
 - [Music Player](https://github.com/Tenpi/Music-Player), a music player with reversing, time stretching, and pitch shifting effects.
 - [Photo Viewer](https://github.com/Tenpi/Photo-Viewer), a photo viewer with resizing/color correction effects.
 - [Video Player](https://github.com/Tenpi/Video-Player), a video player with reversing and time stretching effects.
-- [Waifu2x GUI](https://github.com/Tenpi/Waifu2x-GUI), an app for upscales images with waifu2x.
+- [Waifu2x GUI](https://github.com/Tenpi/Waifu2x-GUI), an app for upscaling images with waifu2x.
 - [Image Compressor](https://github.com/Tenpi/Image-Compressor), an app for compressing and resizing images.
 - [Pixiv Downloader](https://github.com/Tenpi/Pixiv-Downloader), an app for downloading illustrations from Pixiv.
 - [Crunchyroll Downloader](https://github.com/Tenpi/Crunchyroll-Downloader), an app for downloading episodes from Crunchyroll.
