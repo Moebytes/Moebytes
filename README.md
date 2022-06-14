@@ -5,8 +5,8 @@ I have made several, mostly anime-related, websites, apps, bots, and extensions.
 ❄️ My Websites:
 - [moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website.
 - [kisaragi.moe](https://github.com/Tenpi/kisaragi.moe), website for my discord bot.
-- [lolisleep.moe](https://github.com/Tenpi/lolisleep.moe), explains itself I think.
-- [musicplayer.moe](https://github.com/Tenpi/musicplayer.moe), online music player.
+- [lolisleep.moe](https://github.com/Tenpi/lolisleep.moe), pretty self explanatory. 
+- [musicplayer.moe](https://github.com/Tenpi/musicplayer.moe), an online music player.
 
 ❄️ My Apps:
 - [Music Player](https://github.com/Tenpi/Music-Player), a music player with reversing, time stretching, and pitch shifting effects.
