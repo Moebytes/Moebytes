@@ -1,6 +1,6 @@
 ### Hello!
 
-In my free time I like working on various, mostly anime related projects, such as websites, apps, and bots.
+❄️ I like working on various, mostly anime related projects, such as websites, apps, and bots.
 
 My Websites:
 - [moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website.
