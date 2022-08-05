@@ -24,3 +24,5 @@ I have made several, mostly anime-related, websites, apps, bots, and extensions.
 
 ❄️ My Extensions:
 - [Soundcloud Download](https://github.com/Tenpi/soundcloud-download), an extension that downloads tracks from Soundcloud.
+
+Other interests: Drawing (beginner), Music Production (beginner), follow me on twitter for my other works.
