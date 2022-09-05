@@ -14,9 +14,9 @@ Apps: \
 Websites: \
 [Moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website organized by tags. \
 [Cutemanga.moe](https://github.com/Tenpi/Cutemanga.moe), website for reading manga with selectable text. \
-[Kisaragi.moe](https://github.com/Tenpi/Kisaragi.moe), website of my multi-purpose discord bot.
+[Kisaragi.moe](https://github.com/Tenpi/Kisaragi.moe), website of my discord bot.
 
 Other: \
-[Kisaragi](https://github.com/Tenpi/Kisaragi), a multipurpose discord bot with 300+ commands (probably the most code I've written). \
+[Kisaragi](https://github.com/Tenpi/Kisaragi), a discord bot with 300+ commands (probably the most code I've written). \
 [Soundcloud Downloaad](https://github.com/Tenpi/soundcloud-download), extension that downloads tracks from Soundcloud.
 
