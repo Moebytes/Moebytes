@@ -13,6 +13,7 @@ Apps: \
 
 Websites: \
 [Moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website organized by tags. \
+[Cuteanime.moe](https://github.com/Tenpi/Cuteanime.moe), website for watching anime with Japanese subtitles. \
 [Cutemanga.moe](https://github.com/Tenpi/Cutemanga.moe), website for reading manga with selectable text. \
 [Kisaragi.moe](https://github.com/Tenpi/Kisaragi.moe), website of my discord bot.
 
