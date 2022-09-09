@@ -12,12 +12,12 @@ Apps: \
 [Pixiv Downloader](https://github.com/Tenpi/Pixiv-Downloader), downloads illustrations from Pixiv.
 
 Websites: \
-[Moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website organized by tags. \
 [Cuteanime.moe](https://github.com/Tenpi/Cuteanime.moe), website for watching anime with Japanese subtitles. \
 [Cutemanga.moe](https://github.com/Tenpi/Cutemanga.moe), website for reading manga with selectable text. \
+[Moebooru.moe](https://github.com/Tenpi/Moebooru.moe), image board website organized by tags. \
 [Kisaragi.moe](https://github.com/Tenpi/Kisaragi.moe), website of my discord bot.
 
 Other: \
-[Kisaragi](https://github.com/Tenpi/Kisaragi), a discord bot with 300+ commands (probably the most code I've written). \
+[Kisaragi](https://github.com/Tenpi/Kisaragi), a discord bot with 300+ commands. \
 [Soundcloud Downloaad](https://github.com/Tenpi/soundcloud-download), extension that downloads tracks from Soundcloud.
 
