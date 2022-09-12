@@ -1,4 +1,4 @@
-Hello, I hope you like my apps/websites, I make most of my work open source.
+Hello, I hope you like my apps/websites.
 
 My Apps: \
 [Music Player](https://github.com/Tenpi/Music-Player), music player with reversing, time stretching, and pitch shifting effects. \
