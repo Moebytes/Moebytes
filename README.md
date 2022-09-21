@@ -7,13 +7,14 @@ My Apps: \
 [Waifu2x GUI](https://github.com/Tenpi/Waifu2x-GUI), upscales images/videos. \
 [Image Compressor](https://github.com/Tenpi/Image-Compressor), compresses and resizing images/gifs. \
 [Crunchyroll Downloader](https://github.com/Tenpi/Crunchyroll-Downloader), downloads episodes from Crunchyroll. \
-[Pixiv Downloader](https://github.com/Tenpi/Pixiv-Downloader), downloads illustrations from Pixiv. \
+[Pixiv Downloader](https://github.com/Tenpi/Pixiv-Downloader), downloads illustrations from Pixiv.
 
 My Websites: \
 [Cuteanime.moe](https://github.com/Tenpi/Cuteanime.moe), website for watching anime with Japanese subtitles. \
 [Cutemanga.moe](https://github.com/Tenpi/Cutemanga.moe), website for reading manga with selectable text. \
 [Moebooru.moe](https://github.com/Tenpi/Moebooru.moe), image board website organized by tags. \
-[Kisaragi.moe](https://github.com/Tenpi/Kisaragi.moe), website for my discord bot.
+[Kisaragi.moe](https://github.com/Tenpi/Kisaragi.moe), website for my discord bot. \
+[Lolisleep.moe](https://github.com/Tenpi/lolisleep.moe), I think it's self explanatory. 
 
 Other: \
 [Kisaragi](https://github.com/Tenpi/Kisaragi), discord bot with 300+ commands. \
