@@ -1,4 +1,4 @@
-Hello, I hope you like my apps/websites.
+Maintenance notice: Sorry but I don't want to take any issues or pull requests on my projects at this time. It just makes me feel overwhelmed and at the moment I have more important things to do. 
 
 My Apps: \
 [Music Player](https://github.com/Tenpi/Music-Player), music player with reversing, time stretching, and pitch shifting effects. \
