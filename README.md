@@ -8,13 +8,10 @@ My Apps: \
 [Image Compressor](https://github.com/Tenpi/Image-Compressor), compresses and resizing images/gifs.
 
 My Websites: \
-[Cuteanime.moe](https://github.com/Tenpi/Cuteanime.moe), website for watching anime with Japanese subtitles. \
-[Cutemanga.moe](https://github.com/Tenpi/Cutemanga.moe), website for reading manga with selectable text. \
-[Moebooru.moe](https://github.com/Tenpi/Moebooru.moe), image board website organized by tags. \
 [Kisaragi.moe](https://github.com/Tenpi/Kisaragi.moe), website for my discord bot. \
 [Lolisleep.moe](https://github.com/Tenpi/lolisleep.moe), I think it's self explanatory. 
 
 Other: \
 [Kisaragi](https://github.com/Tenpi/Kisaragi), discord bot with 300+ commands.
 
-If you are looking for other projects, I removed them for being copyright infringement. 
+If you are looking for other projects, I have removed them for being copyright infringement. 
