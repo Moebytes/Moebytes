@@ -1,4 +1,4 @@
-Maintenance notice: Sorry but I don't want to take any issues or pull requests on my projects at this time. It just makes me feel overwhelmed and at the moment I have more important things to do. 
+Hello, I am a web developer that has made a couple of apps and websites. 
 
 My Apps: \
 [Music Player](https://github.com/Tenpi/Music-Player), music player with reversing, time stretching, and pitch shifting effects. \
@@ -6,8 +6,6 @@ My Apps: \
 [Video Player](https://github.com/Tenpi/Video-Player), video player with reversing and time stretching effects. \
 [Waifu2x GUI](https://github.com/Tenpi/Waifu2x-GUI), upscales images/videos. \
 [Image Compressor](https://github.com/Tenpi/Image-Compressor), compresses and resizing images/gifs. \
-[Crunchyroll Downloader](https://github.com/Tenpi/Crunchyroll-Downloader), downloads episodes from Crunchyroll. \
-[Pixiv Downloader](https://github.com/Tenpi/Pixiv-Downloader), downloads illustrations from Pixiv.
 
 My Websites: \
 [Cuteanime.moe](https://github.com/Tenpi/Cuteanime.moe), website for watching anime with Japanese subtitles. \
@@ -18,4 +16,5 @@ My Websites: \
 
 Other: \
 [Kisaragi](https://github.com/Tenpi/Kisaragi), discord bot with 300+ commands. \
-[Soundcloud Downloaad](https://github.com/Tenpi/soundcloud-download), extension that downloads tracks from Soundcloud.
+
+If you are here looking for other projects, I removed them because they were copyright infringement. 
