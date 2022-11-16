@@ -5,7 +5,7 @@ My Apps: \
 [Photo Viewer](https://github.com/Tenpi/Photo-Viewer), photo viewer with resizing/color correction effects. \
 [Video Player](https://github.com/Tenpi/Video-Player), video player with reversing and time stretching effects. \
 [Waifu2x GUI](https://github.com/Tenpi/Waifu2x-GUI), upscales images/videos. \
-[Image Compressor](https://github.com/Tenpi/Image-Compressor), compresses and resizing images/gifs. \
+[Image Compressor](https://github.com/Tenpi/Image-Compressor), compresses and resizing images/gifs.
 
 My Websites: \
 [Cuteanime.moe](https://github.com/Tenpi/Cuteanime.moe), website for watching anime with Japanese subtitles. \
@@ -15,6 +15,6 @@ My Websites: \
 [Lolisleep.moe](https://github.com/Tenpi/lolisleep.moe), I think it's self explanatory. 
 
 Other: \
-[Kisaragi](https://github.com/Tenpi/Kisaragi), discord bot with 300+ commands. \
+[Kisaragi](https://github.com/Tenpi/Kisaragi), discord bot with 300+ commands.
 
-If you are here looking for other projects, I removed them because they were copyright infringement. 
+If you are looking for other projects, I have removed them because they were copyright infringement. 
