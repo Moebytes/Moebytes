@@ -13,5 +13,3 @@ My Websites: \
 
 Other: \
 [Kisaragi](https://github.com/Tenpi/Kisaragi), discord bot with 300+ commands.
-
-If you are looking for other projects, I have removed them for being copyright infringement. 
