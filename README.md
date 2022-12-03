@@ -26,5 +26,3 @@ It is honestly so cruel and disgusting that these companies are exploiting the h
 It has none of my support and anyone who pays for AI "art" should be ashamed of themselves. I only care about art if it has real human love and compassion behind it.
 
 I have to say that AI "art" has just really turned me off from programming in general. I don't really want to be associated with these people. Don't even call me a "programmer" or "coder", I am just an artist who happens to write some code sometimes.
-
-/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / 
