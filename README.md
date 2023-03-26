@@ -8,6 +8,7 @@ My Apps: \
 [Image Compressor](https://github.com/Tenpi/Image-Compressor), compresses and resizing images/gifs.
 
 My Websites: \
+[RGBWatermark.net](https://github.com/Tenpi/RGBWatermark), a rainbow watermarking tool. \
 [Moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website organized by tags. \
 [Cuteanime.moe](https://github.com/Tenpi/Cuteanime.moe), a website to learn japanese by watching anime. \
 [Cutemanga.moe](https://github.com/Tenpi/Cutemanga.moe), a website to learn japanese by reading manga. \
