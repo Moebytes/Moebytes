@@ -12,8 +12,7 @@ My Websites: \
 [Moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website organized by tags. \
 [Cuteanime.moe](https://github.com/Tenpi/Cuteanime.moe), a website to learn japanese by watching anime. \
 [Cutemanga.moe](https://github.com/Tenpi/Cutemanga.moe), a website to learn japanese by reading manga. \
-[Kisaragi.moe](https://github.com/Tenpi/Kisaragi.moe), website for my discord bot. \
-[Lolisleep.moe](https://github.com/Tenpi/lolisleep.moe), I think it's self explanatory. 
+[Kisaragi.moe](https://github.com/Tenpi/Kisaragi.moe), website for my discord bot. 
 
 Other: \
 [Kisaragi](https://github.com/Tenpi/Kisaragi), a discord bot with 300+ commands.
