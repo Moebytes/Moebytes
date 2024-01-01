@@ -1,12 +1,11 @@
-Hi, I am a web developer that has made a couple of apps and websites. 
+Hi, I'm a web developer that has made several apps and websites. 
 
 My Apps: \
 [Music Player](https://github.com/Tenpi/Music-Player), music player with reversing, time stretching, and pitch shifting effects. \
 [Photo Viewer](https://github.com/Tenpi/Photo-Viewer), photo viewer with resizing/color correction effects. \
 [Video Player](https://github.com/Tenpi/Video-Player), video player with reversing and time stretching effects. \
 [Waifu2x GUI](https://github.com/Tenpi/Waifu2x-GUI), upscales images/videos. \
-[Image Compressor](https://github.com/Tenpi/Image-Compressor), compresses and resizing images/gifs. \
-[RGBWatermark](https://github.com/Tenpi/RGBWatermark), a rainbow watermarking tool.
+[Image Compressor](https://github.com/Tenpi/Image-Compressor), compresses and resizing images/gifs.
 
 My Websites: \
 [Moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website organized by tags. \
