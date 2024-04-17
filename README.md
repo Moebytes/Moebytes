@@ -8,11 +8,11 @@ My Apps: \
 [Image Compressor](https://github.com/Tenpi/Image-Compressor), an image and gif compressor.
 
 My Websites: \
-[Kisaragi.moe](https://github.com/Tenpi/Kisaragi.moe), the website of my discord bot. \
-[Moebooru.moe](https://github.com/Tenpi/Moebooru.moe), an image board website organized by tags. \
-[Cuteanime.moe](https://github.com/Tenpi/Cuteanime.moe), an interface to watch anime with japanese subtitles. \
-[Cutemanga.moe](https://github.com/Tenpi/Cutemanga.moe), an interface to read manga with japanese ocr'd text. \
-[Local Image Viewer](https://github.com/Tenpi/Local-Image-Viewer), an interface to view images.
+[Kisaragi Website](https://github.com/Tenpi/Kisaragi.moe), the website of my discord bot. \
+[Moebooru](https://github.com/Tenpi/Moebooru.moe), an image board website organized by tags. \
+[Cuteanime](https://github.com/Tenpi/Cuteanime.moe), an interface to watch anime with japanese subtitles. \
+[Cutemanga](https://github.com/Tenpi/Cutemanga.moe), an interface to read manga with japanese ocr'd text. \
+[Local Image Viewer](https://github.com/Tenpi/Local-Image-Viewer), an interface to view local images.
 
 Misc: \
-[Kisaragi](https://github.com/Tenpi/Kisaragi), a discord bot having 300+ commands.
+[Kisaragi Bot](https://github.com/Tenpi/Kisaragi), a discord bot having 300+ commands.
