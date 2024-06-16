@@ -9,9 +9,9 @@ My Apps: \
 
 My Websites: \
 [Kisaragi Website](https://github.com/Tenpi/Kisaragi.moe), the website of my discord bot. \
-[Moebooru](https://github.com/Tenpi/Moebooru.moe), an image board website organized by tags. \
 [Cuteanime](https://github.com/Tenpi/Cuteanime.moe), an interface to watch anime with japanese subtitles. \
 [Cutemanga](https://github.com/Tenpi/Cutemanga.moe), an interface to read manga with japanese ocr'd text. \
+[Moebooru](https://github.com/Tenpi/Moebooru.moe), an image board website organized by tags. \
 [Local Image Viewer](https://github.com/Tenpi/Local-Image-Viewer), an interface to view local images.
 
 Misc: \
