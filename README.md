@@ -1,18 +1,18 @@
 Hello, I am a web developer mostly working with Typescript. 
 
-My Apps: \
-[Music Player](https://github.com/Tenpi/Music-Player), a music player with reversing, time stretching, and pitch shifting effects. \
-[Photo Viewer](https://github.com/Tenpi/Photo-Viewer), a photo viewer with resizing and color correction effects. \
-[Video Player](https://github.com/Tenpi/Video-Player), a video player with reversing and time stretching effects. \
-[Waifu2x GUI](https://github.com/Tenpi/Waifu2x-GUI), an image, gif, and video upscaler. \
-[Image Compressor](https://github.com/Tenpi/Image-Compressor), an image and gif compressor.
+Apps: \
+[Music Player](https://github.com/Moebits/Music-Player), a music player with time stretching and pitch shifting effects. \
+[Photo Viewer](https://github.com/Moebits/Photo-Viewer), a photo viewer with resizing and color correction effects. \
+[Video Player](https://github.com/Moebits/Video-Player), a video player with reversing and time stretching effects. \
+[Waifu2x GUI](https://github.com/Moebits/Waifu2x-GUI), an image and video upscaler. \
+[Image Compressor](https://github.com/Moebits/Image-Compressor), an image and gif compressor.
 
-My Websites: \
-[Kisaragi Website](https://github.com/Tenpi/Kisaragi.moe), the website of my discord bot. \
-[Cuteanime](https://github.com/Tenpi/Cuteanime.moe), an interface to watch anime with japanese subtitles. \
-[Cutemanga](https://github.com/Tenpi/Cutemanga.moe), an interface to read manga with japanese ocr'd text. \
-[Moebooru](https://github.com/Tenpi/Moebooru.moe), an image board website organized by tags. \
-[Local Image Viewer](https://github.com/Tenpi/Local-Image-Viewer), an interface to view local images.
+Sites: \
+[Kisaragi.moe](https://github.com/Moebits/Kisaragi.moe), the website of my discord bot. \
+[Cuteanime.moe](https://github.com/Moebits/Cuteanime.moe), an interface to watch anime with japanese subtitles. \
+[Cutemanga.moe](https://github.com/Moebits/Cutemanga.moe), an interface to read manga with japanese ocr'd text. \
+[Moebooru.moe](https://github.com/Moebits/Moebooru.moe), an image board website organized by tags. \
+[Local Image Viewer](https://github.com/Moebits/Local-Image-Viewer), an interface to view local images.
 
-Misc: \
-[Kisaragi Bot](https://github.com/Tenpi/Kisaragi), a discord bot having 300+ commands.
+Other: \
+[Kisaragi Bot](https://github.com/Moebits/Kisaragi), a discord bot with lots of commands.
