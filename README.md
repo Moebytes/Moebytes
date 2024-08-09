@@ -1,4 +1,4 @@
-Hello, I am a web developer mostly working with Typescript. 
+Hello, these are some of the apps and websites I've made. 
 
 Apps: \
 [Music Player](https://github.com/Moebits/Music-Player), a music player with time stretching and pitch shifting effects. \
