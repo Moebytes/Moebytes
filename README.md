@@ -11,7 +11,7 @@ Sites: \
 [Kisaragi.moe](https://github.com/Moebits/Kisaragi.moe), the website of my discord bot. \
 [Cuteanime.moe](https://github.com/Moebits/Cuteanime.moe), an interface to watch anime with japanese subtitles. \
 [Cutemanga.moe](https://github.com/Moebits/Cutemanga.moe), an interface to read manga with japanese ocr'd text. \
-[Moebooru.moe](https://github.com/Moebits/Moebooru.moe), an image board website organized by tags. \
+[Moepictures.moe](https://github.com/Moebits/Moepictures.moe), an image board website organized by tags. \
 [Local Image Viewer](https://github.com/Moebits/Local-Image-Viewer), an interface to view local images.
 
 Other: \
