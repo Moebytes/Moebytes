@@ -16,5 +16,3 @@ Sites: \
 
 Other: \
 [Kisaragi Bot](https://github.com/Moebits/Kisaragi), a discord bot with lots of commands.
-
-![:Moebits](https://count.getloli.com/get/@:Moebits?theme=asoul)
