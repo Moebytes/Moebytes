@@ -10,5 +10,5 @@ Apps: \
 Other: \
 [Kisaragi](https://github.com/Moebits/Kisaragi) discord bot with lots of commands. \
 [Kisaragi.moe](https://github.com/Moebits/Kisaragi.moe) discord bot's website. \
-[Moepictures](https://github.com/Moebits/Kisaragi) imageboard website. \
+[Moepictures](https://github.com/Moebits/Moepictures.moe) imageboard website. \
 [Local Image Viewer](https://github.com/Moebits/Local-Image-Viewer) local image viewing server.
