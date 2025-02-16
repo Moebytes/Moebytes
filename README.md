@@ -12,5 +12,3 @@ Other: \
 [Kisaragi.moe](https://github.com/Moebits/Kisaragi.moe) discord bot's website. \
 [Moepictures](https://github.com/Moebits/Moepictures.moe) an image-board website. \
 [Local Image Viewer](https://github.com/Moebits/Local-Image-Viewer) a local image viewing server.
-
-Todo: Learn C++, Java or C#? Maybe make a native app, without electron.
