@@ -1,4 +1,4 @@
-Mostly a TypeScript and Node.JS developer.
+Mostly a TypeScript developer. I also know bits of Python, C#, and C++
 
 Apps: \
 [Music Player](https://github.com/Moebits/Music-Player) \
