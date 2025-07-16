@@ -5,7 +5,7 @@ https://www.npmjs.com/~moebits
 
 Apps: \
 [Music Player](https://github.com/Moebits/Music-Player) - 7K+ lines \
-[Photo Viewer](https://github.com/Moebits/Photo-Viewer) - 10K+ lines \
+[Photo Viewer](https://github.com/Moebits/Photo-Viewer) - 9K+ lines \
 [Video Player](https://github.com/Moebits/Video-Player) - 4K+ lines \
 [Waifu2x GUI](https://github.com/Moebits/Waifu2x-GUI) - 4K+ lines \
 [Image Compressor](https://github.com/Moebits/Image-Compressor) - 5K+ lines
