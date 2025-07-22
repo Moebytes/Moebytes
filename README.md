@@ -1,4 +1,4 @@
-I mainly have experience with Typescript/Javascript and some experience with Python, C++, C#, and Java. 
+I'm mostly familiar with Typescript, C++, and Python
 
 I also added some packages to the npm registry: \
 https://www.npmjs.com/~moebits
