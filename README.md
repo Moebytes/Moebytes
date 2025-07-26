@@ -20,5 +20,5 @@ Websites/Bots: \
 [Cuteanime](https://github.com/Moebits/Cuteanime.moe) \
 [Cutemanga](https://github.com/Moebits/Cutemanga.moe)
 
-Games (needs work...): \
+Games (needs work): \
 [Floppy Bird](https://github.com/Moebits/FloppyBird)
