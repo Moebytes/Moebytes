@@ -16,4 +16,6 @@ Audio Plugins: \
 Websites/Bots: \
 [Moepictures](https://github.com/Moebits/Moepictures.moe) \
 [Kisaragi](https://github.com/Moebits/Kisaragi) \
-[Kisaragi.moe](https://github.com/Moebits/Kisaragi.moe)
+[Kisaragi.moe](https://github.com/Moebits/Kisaragi.moe) \
+[Cuteanime](https://github.com/Moebits/Cuteanime.moe) \
+[Cutemanga](https://github.com/Moebits/Cutemanga.moe)
