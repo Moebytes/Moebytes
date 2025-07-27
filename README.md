@@ -19,6 +19,3 @@ Websites/Bots: \
 [Kisaragi.moe](https://github.com/Moebits/Kisaragi.moe) \
 [Cuteanime](https://github.com/Moebits/Cuteanime.moe) \
 [Cutemanga](https://github.com/Moebits/Cutemanga.moe)
-
-Games (needs work): \
-[Floppy Bird](https://github.com/Moebits/FloppyBird)
