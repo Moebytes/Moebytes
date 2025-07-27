@@ -1,8 +1,5 @@
 I'm mostly familiar with Typescript, C++, and Python
 
-I also added some packages to the npm registry: \
-https://www.npmjs.com/~moebits
-
 Desktop Apps: \
 [Music Player](https://github.com/Moebits/Music-Player) \
 [Photo Viewer](https://github.com/Moebits/Photo-Viewer) \
@@ -19,3 +16,6 @@ Websites/Bots: \
 [Kisaragi.moe](https://github.com/Moebits/Kisaragi.moe) \
 [Cuteanime](https://github.com/Moebits/Cuteanime.moe) \
 [Cutemanga](https://github.com/Moebits/Cutemanga.moe)
+
+NPM Packages: \
+https://www.npmjs.com/~moebits
