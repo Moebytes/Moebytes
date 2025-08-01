@@ -19,3 +19,5 @@ Websites/Bots: \
 
 NPM Packages: \
 https://www.npmjs.com/~moebits
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,cpp,cs,react,electron,redux,postgres,redis,less,discordjs,webpack,nodejs,npm)](https://skillicons.dev)
