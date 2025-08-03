@@ -1,4 +1,4 @@
-I'm mostly familiar with Typescript, C++, and Python
+I'm mostly familiar with Typescript, C++, and Python.
 
 Desktop Apps: \
 [Music Player](https://github.com/Moebits/Music-Player) \
