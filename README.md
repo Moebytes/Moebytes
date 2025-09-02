@@ -17,6 +17,9 @@ Websites/Bots: \
 [Cuteanime](https://github.com/Moebits/Cuteanime.moe) \
 [Cutemanga](https://github.com/Moebits/Cutemanga.moe)
 
+Game Mods: \
+[Attempt Count](https://github.com/Moebits/Attempt-Count) \
+
 NPM Packages: \
 https://www.npmjs.com/~moebits
 
