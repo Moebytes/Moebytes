@@ -1,21 +1,21 @@
 Most of my projects are in Node.js/Typescript. Currently I’m trying to learn more C++. 
 
 Apps: \
-[Music Player](https://github.com/Moebits/Music-Player) \
-[Photo Viewer](https://github.com/Moebits/Photo-Viewer) \
-[Video Player](https://github.com/Moebits/Video-Player) \
-[Waifu2x GUI](https://github.com/Moebits/Waifu2x-GUI) \
-[Image Compressor](https://github.com/Moebits/Image-Compressor)
+[Music Player](https://github.com/Moebytes/Music-Player) \
+[Photo Viewer](https://github.com/Moebytes/Photo-Viewer) \
+[Video Player](https://github.com/Moebytes/Video-Player) \
+[Waifu2x GUI](https://github.com/Moebytes/Waifu2x-GUI) \
+[Image Compressor](https://github.com/Moebytes/Image-Compressor)
 
 Websites/Bots: \
-[Moepictures](https://github.com/Moebits/Moepictures.moe) \
-[Kisaragi](https://github.com/Moebits/Kisaragi) \
-[Kisaragi.moe](https://github.com/Moebits/Kisaragi.moe) \
-[Cuteanime](https://github.com/Moebits/Cuteanime.moe) \
-[Cutemanga](https://github.com/Moebits/Cutemanga.moe)
+[Moepictures](https://github.com/Moebytes/Moepictures) \
+[Kisaragi](https://github.com/Moebytes/Kisaragi) \
+[Kisaragi.moe](https://github.com/Moebytes/Kisaragi.moe) \
+[Cuteanime](https://github.com/Moebytes/Cuteanime) \
+[Cutemanga](https://github.com/Moebytes/Cutemanga)
 
 Audio Plugins: \
-[Gain Booster](https://github.com/Moebits/Gain-Booster)
+[Gain Booster](https://github.com/Moebytes/Gain-Booster)
 
 NPM Packages: \
 https://www.npmjs.com/~moebits
