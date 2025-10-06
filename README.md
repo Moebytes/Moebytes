@@ -1,4 +1,4 @@
-Most of my projects are in Node.js/Typescript, with occasional scripts in Python. Currently I am trying to learn more C++ and C#!
+Most of my projects are in Node.js/Typescript. Currently I’m trying to learn more C++. 
 
 Apps: \
 [Music Player](https://github.com/Moebits/Music-Player) \
