@@ -15,7 +15,8 @@ Websites/Bots: \
 [Cutemanga](https://github.com/Moebytes/Cutemanga)
 
 Audio Plugins: \
-[Gain Booster](https://github.com/Moebytes/Gain-Booster)
+[Gain Booster](https://github.com/Moebytes/Gain-Booster) \
+[Vocal Chopper](https://github.com/Moebytes/Vocal-Chopper)
 
 NPM Packages: \
 https://www.npmjs.com/~moebytes
