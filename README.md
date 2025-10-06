@@ -18,6 +18,6 @@ Audio Plugins: \
 [Gain Booster](https://github.com/Moebytes/Gain-Booster)
 
 NPM Packages: \
-https://www.npmjs.com/~moebits
+https://www.npmjs.com/~moebytes
 
 [![Languages](https://skillicons.dev/icons?i=ts,js,python,cpp,cs,react,electron,redux,postgres,redis,less,discordjs,webpack,nodejs,npm)](https://skillicons.dev)
