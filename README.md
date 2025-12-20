@@ -21,13 +21,4 @@ Audio Plugins: \
 NPM Packages: \
 https://www.npmjs.com/~moebytes
 
-<details>
-  <summary>Future To Do</summary>
-  <ul>
-    <li>More audio plugins (Simple synth, bitcrusher, filter, pitch shifter, etc.)</li>
-    <li>Learn figma design (and improve design across my projects)</li>
-    <li>Learn game development probably with Unity (or Godot, more trialing done to find my engine preference).</li>
-  </ul>
-</details>
-
 [![Languages](https://skillicons.dev/icons?i=ts,js,python,cpp,cs,react,electron,redux,postgres,redis,less,discordjs,webpack,nodejs,npm)](https://skillicons.dev)
