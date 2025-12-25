@@ -21,4 +21,4 @@ Audio Plugins: \
 NPM Packages: \
 https://www.npmjs.com/~moebytes
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,python,cpp,cs,react,electron,redux,postgres,redis,less,discordjs,webpack,nodejs,npm)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,react,electron,redux,figma,python,cpp,cs,postgres,redis,discordjs,webpack,nodejs,npm)](https://skillicons.dev)
