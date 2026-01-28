@@ -1,4 +1,4 @@
-Most of my projects are in Node.js/Typescript. Currently I’m trying to learn more C++. 
+Hello, I hope you like my apps, websites, and some other things. 
 
 Apps: \
 [Music Player](https://github.com/Moebytes/Music-Player) \
