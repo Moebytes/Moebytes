@@ -1,4 +1,4 @@
-Hello, I hope you like my apps, websites, and some other things. 
+Hi, I hope you like my apps, websites, and other things. I have been coding since 2021.
 
 Apps: \
 [Music Player](https://github.com/Moebytes/Music-Player) \
@@ -22,3 +22,36 @@ NPM Packages: \
 https://www.npmjs.com/~moebytes
 
 [![Languages](https://skillicons.dev/icons?i=ts,js,react,electron,redux,figma,python,cpp,cs,postgres,redis,discordjs,webpack,nodejs,npm)](https://skillicons.dev)
+
+<details>
+<summary>Todo list</summary>
+<ul>
+<li>Redesign moepictures</li>
+<li>Redesign music player</li>
+<li>Redesign photo viewer</li>
+<li>Redesign video player</li>
+<li>Redesign waifu2x GUI</li>
+<li>Redesign image compressor</li>
+<li>Video compression utility</li>
+<li>Pitch shifter plugin</li>
+<li>Bitcrusher plugin</li>
+<li>Filter plugin</li>
+<li>Reverb plugin</li>
+<li>Delay plugin</li>
+<li>Chorus plugin</li>
+<li>Flanger plugin</li>
+<li>Phaser plugin</li>
+<li>Stutter plugin</li>
+<li>Reversing plugin</li>
+</ul>
+</details>
+
+<details>
+<summary>Large projects</summary>
+<ul>
+<li>Moepictures mobile app?</li>
+<li>Small video game?</li>
+<li>Drawing app?</li>
+<li>Synthesizer?</li>
+</ul>
+</details>
