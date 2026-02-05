@@ -26,7 +26,6 @@ https://www.npmjs.com/~moebytes
 <details>
 <summary>Todo list</summary>
 <ul>
-<li>Redesign moepictures</li>
 <li>Redesign music player</li>
 <li>Redesign photo viewer</li>
 <li>Redesign video player</li>
