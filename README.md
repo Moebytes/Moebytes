@@ -30,6 +30,7 @@ https://www.npmjs.com/~moebytes
 <li>Video compression utility</li>
 <li>Continue audio plugins: pitch shifter, bitcrusher, filter, reverb, delay, chorus, flanger, phaser, stutter, reverser</li>
 <li>Moepictures mobile app</li>
+<li>Kisaragi bot dashboard</li>
 <li>Small video game?</li>
 <li>Drawing app?</li>
 <li>Synthesizer?</li>
