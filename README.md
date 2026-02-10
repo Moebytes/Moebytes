@@ -26,29 +26,10 @@ https://www.npmjs.com/~moebytes
 <details>
 <summary>Todo list</summary>
 <ul>
-<li>Redesign music player</li>
-<li>Redesign photo viewer</li>
-<li>Redesign video player</li>
-<li>Redesign waifu2x GUI</li>
-<li>Redesign image compressor</li>
+<li>These old designs have to be remade: music player, photo viewer, video player, waifu2x GUI, image compressor, pixiv downloader, cuteanime, cutemanga</li>
 <li>Video compression utility</li>
-<li>Pitch shifter plugin</li>
-<li>Bitcrusher plugin</li>
-<li>Filter plugin</li>
-<li>Reverb plugin</li>
-<li>Delay plugin</li>
-<li>Chorus plugin</li>
-<li>Flanger plugin</li>
-<li>Phaser plugin</li>
-<li>Stutter plugin</li>
-<li>Reversing plugin</li>
-</ul>
-</details>
-
-<details>
-<summary>Large projects</summary>
-<ul>
-<li>Moepictures mobile app?</li>
+<li>Continue audio plugins: pitch shifter, bitcrusher, filter, reverb, delay, chorus, flanger, phaser, stutter, reverser</li>
+<li>Moepictures mobile app</li>
 <li>Small video game?</li>
 <li>Drawing app?</li>
 <li>Synthesizer?</li>
