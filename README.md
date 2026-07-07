@@ -1,7 +1,5 @@
 <img src="https://github.com/Moebytes/Moebytes.com/blob/main/assets/images/logo.png?raw=true"/>
 
-I'm a software developer and I like making anime stuff.
-
 Visit my website: \
 https://moebytes.com 
 
