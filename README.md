@@ -1,8 +1,10 @@
 <img src="https://github.com/Moebytes/Moebytes.com/blob/main/assets/images/logo.png?raw=true"/>
 
-Visit my website for all of my content: \
+I'm a software developer making anime stuff.
+
+Visit my website: \
 https://moebytes.com 
 
 <br/>
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,react,electron,redux,figma,python,cpp,cs,postgres,redis,discordjs,webpack,nodejs,npm)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,cpp,cs,react,electron,redux,figma,ps,ai,postgres,redis,discordjs,webpack)](https://skillicons.dev)
